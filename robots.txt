@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Felaback7.github.io/readme-iubwuk/sitemap.xml
